@@ -1,0 +1,302 @@
+{
+    "questions": [
+        {
+            "title": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+            "points": 15,
+            "observation": "A quantidade de sangue varia de pessoa para pessoa. O volume de sangue é entre 7% e 8% o peso corporal. Assim, um adulto com 50 e 80 quilos, pode ter entre 4 e 6 litros de sangue, respectivamente. Portanto, 4 a 6 litros é a alternativa que compreende a quantidade mais próxima de adultos com pesos diferentes.",
+            "answers": [
+                {
+                    "title": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+                    "correct": false
+                },
+                {
+                    "title": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+                    "correct": true
+                },
+                {
+                    "title": "Tem 10 litros. São retirados 2 litros",
+                    "correct": false
+                },
+                {
+                    "title": "Tem 7 litros. São retirados 1,5 litros",
+                    "correct": false
+                },
+                {
+                    "title": "Tem 0,5 litros. São retirados 0,5 litros",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "De quem é a famosa frase “Penso, logo existo",
+            "points": 8,
+            "observation": "“Je pense, donc je suis” é a frase original, escrita em francês, do filósofo René Descartes (1596-1650). Ela resume o pensamento e o método de Descartes, para quem tudo tem início na dúvida.",
+            "answers": [
+                {
+                    "title": "Platão",
+                    "correct": false
+                },
+                {
+                    "title": "Galileu Galilei",
+                    "correct": false
+                },
+                {
+                    "title": "Descartes",
+                    "correct": true
+                },
+                {
+                    "title": "Sócrates",
+                    "correct": false
+                },
+                {
+                    "title": "Francis Bacon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "De onde é a invenção do chuveiro elétrico?",
+            "points": 12,
+            "observation": "Francisco Canhos é o nome do homem que, na década de 40, desenvolveu o primeiro chuveiro elétrico seguro em Jaú-SP. O aparelho vinha sendo desenvolvido desde os anos 30, mas apresentava riscos de curto-circuito.",
+            "answers": [
+                {
+                    "title": "França",
+                    "correct": false
+                },
+                {
+                    "title": "Inglaterra",
+                    "correct": false
+                },
+                {
+                    "title": "Brasil",
+                    "correct": true
+                },
+                {
+                    "title": "Austrália",
+                    "correct": false
+                },
+                {
+                    "title": "Itália",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Quais o menor e o maior país do mundo?",
+            "points": 8,
+            "observation": "O Vaticano, sede da igreja católica, tem apenas 44 hectares (0,44 km2). A Rússia, localizada em dois continentes (Ásia e Europa), tem 17 milhões de km2.",
+            "answers": [
+                {
+                    "title": "Vaticano e Rússia",
+                    "correct": true
+                },
+                {
+                    "title": "Nauru e China",
+                    "correct": false
+                },
+                {
+                    "title": "Mônaco e Canadá",
+                    "correct": false
+                },
+                {
+                    "title": "Malta e Estados Unidos",
+                    "correct": false
+                },
+                {
+                    "title": "São Marino e Índia",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+            "points": 10,
+            "observation": "João Belchior Marques Goulart (1919-1976) foi o 24º presidente do Brasil, cujo período de governo compreende os anos de 1961 a 1964.",
+            "answers": [
+                {
+                    "title": "Jânio Quadros",
+                    "correct": false
+                },
+                {
+                    "title": "Jacinto Anjos",
+                    "correct": false
+                },
+                {
+                    "title": "Getúlio Vargas",
+                    "correct": false
+                },
+                {
+                    "title": "João Figueiredo",
+                    "correct": false
+                },
+                {
+                    "title": "João Goulart",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+            "points": 5,
+            "observation": "Estas palavras são exemplos de barbarismo, um vício de linguagem em que as palavras são pronunciadas ou escritas incorretamente.",
+            "answers": [
+                {
+                    "title": "Asterístico, beneficiente, meteorologia, entertido",
+                    "correct": false
+                },
+                {
+                    "title": "Asterisco, beneficente, meteorologia, entretido",
+                    "correct": true
+                },
+                {
+                    "title": "Asterisco, beneficente, metereologia, entretido",
+                    "correct": false
+                },
+                {
+                    "title": "Asterístico, beneficiente, metereologia, entretido",
+                    "correct": false
+                },
+                {
+                    "title": "Asterisco, beneficiente, metereologia, entretido",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+            "points": 9,
+            "observation": "Dom Quixote, de Miguel de Cervantes, é um clássico da literatura espanhola. A obra foi escrita em duas partes, uma em 1605, e a outra em 1615.",
+            "answers": [
+                {
+                    "title": "O Senhor dos Anéis",
+                    "correct": false
+                },
+                {
+                    "title": "Dom Quixote",
+                    "correct": true
+                },
+                {
+                    "title": "O Pequeno Príncipe",
+                    "correct": false
+                },
+                {
+                    "title": "Ela, a Feiticeira",
+                    "correct": false
+                },
+                {
+                    "title": "Um Conto de Duas Cidades",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Quantas casas decimais tem o número pi?",
+            "points": 12,
+            "observation": "Ao longo dos tempos, vários estudiosos têm se dedicado a calcular o número pi e já chegaram ao número de 5 bilhões de casas.",
+            "answers": [
+                {
+                    "title": "Duas",
+                    "correct": false
+                },
+                {
+                    "title": "Centenas",
+                    "correct": false
+                },
+                {
+                    "title": "Infinitas",
+                    "correct": true
+                },
+                {
+                    "title": "Vinte",
+                    "correct": false
+                },
+                {
+                    "title": "Milhares",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+            "points": 15,
+            "observation": "Os últimos elementos foram adicionados à tabela periódica em 2016. Eles são: 113 (Nihônio), 115 (Moscóvio), 117 (Tenessino) e 118 (Oganessônio).",
+            "answers": [
+                {
+                    "title": "113",
+                    "correct": false
+                },
+                {
+                    "title": "109",
+                    "correct": false
+                },
+                {
+                    "title": "108",
+                    "correct": false
+                },
+                {
+                    "title": "118",
+                    "correct": true
+                },
+                {
+                    "title": "92",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+            "points": 10,
+            "observation": "No Japão, a expectativa de vida é em média 84 anos, enquanto na Serra Leoa é 53 anos.",
+            "answers": [
+                {
+                    "title": "Japão e Serra Leoa",
+                    "correct": true
+                },
+                {
+                    "title": "Austrália e Afeganistão",
+                    "correct": false
+                },
+                {
+                    "title": "Itália e Chade",
+                    "correct": false
+                },
+                {
+                    "title": "Brasil e Congo",
+                    "correct": false
+                },
+                {
+                    "title": "Estados Unidos e Angola",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+            "points": 10,
+            "observation": "No Japão, a expectativa de vida é em média 84 anos, enquanto na Serra Leoa é 53 anos.",
+            "answers": [
+                {
+                    "title": "Japão e Serra Leoa",
+                    "correct": true
+                },
+                {
+                    "title": "Austrália e Afeganistão",
+                    "correct": false
+                },
+                {
+                    "title": "Itália e Chade",
+                    "correct": false
+                },
+                {
+                    "title": "Brasil e Congo",
+                    "correct": false
+                },
+                {
+                    "title": "Estados Unidos e Angola",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+    
+}
