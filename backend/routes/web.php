@@ -14,3 +14,12 @@
 $router->get('/', function () use ($router) {
     return $router->app->version();
 });
+
+$router->group(['prefix' => 'api/v1'], function () use ($router) {
+
+    $router->group(['prefix' => '/game'], function () use ($router) {
+        $router->get('/begin', 'Quiz\GameController@begin');
+        $router->post('/finish', 'Quiz\GameController@finish');
+    });   
+
+});
