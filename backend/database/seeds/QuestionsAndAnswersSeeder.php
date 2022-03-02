@@ -18,10 +18,8 @@ class QuestionsAndAnswersSeeder extends Seeder
             true
         );
 
-        //dd($questionsData);
         foreach($content['questions'] as $questionData) {
-            //dd($questionData);
-            $question= Question::create([
+            $question = Question::create([
                 'title' => $questionData['title'],
                 'points' => $questionData['points'],
                 'observation' => $questionData['observation']
