@@ -19,7 +19,7 @@ class CreateAnswersTable extends Migration
             $table->boolean('correct');
             $table->uuid('question_id');
             $table->timestamps();
-            $table->softDeletes(0);	
+            $table->softDeletes();	
  
             $table->foreign('question_id')
                 ->index('answers_question_id_foreign')
@@ -36,6 +36,6 @@ class CreateAnswersTable extends Migration
      */
     public function down()
     {
-        Schema::drop('answers');
+        Schema::dropIfExists('answers');
     }
 }

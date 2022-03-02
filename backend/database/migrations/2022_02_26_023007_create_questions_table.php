@@ -19,7 +19,7 @@ class CreateQuestionsTable extends Migration
             $table->text('observation', 4000)->nullable();
             $table->integer('points');
             $table->timestamps();
-            $table->softDeletes(0);	
+            $table->softDeletes();	
         });
     }
 
@@ -30,6 +30,6 @@ class CreateQuestionsTable extends Migration
      */
     public function down()
     {
-        Schema::drop('questions');
+        Schema::dropIfExists('questions');
     }
 }
